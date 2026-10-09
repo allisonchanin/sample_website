@@ -1,0 +1,37 @@
+.nav-menu {
+    text-align: right;
+}
+.nav-spacing {
+    margin: 0 0 0 10px;
+}
+.nav-characteristics {
+    text-decoration: none;
+    color:blue;
+}
+.image-link{
+    text-decoration: none;
+}
+.header{
+    text-align: center;
+    margin: 0 0 80px;
+}
+.whale-image{
+    display: block;
+    margin: 0 auto;
+}
+.box{
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+.bq{
+    font-style: italic;
+    font-size: 20px;
+}
+.emphasize{
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+}
